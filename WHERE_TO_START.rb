@@ -1,1 +1,1 @@
-puts "7.2: Signup form"
+puts "7.3: Exercises"
