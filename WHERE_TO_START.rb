@@ -1,1 +1,2 @@
-puts "7.3: Exercises"
+puts "Chapter 8: Basic Login"
+puts "https://www.railstutorial.org/book/basic_login"
